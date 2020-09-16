@@ -1,0 +1,60 @@
+.card {
+    width: 400px;
+   margin-bottom: 5px;
+   margin-top: 5px;
+   padding: 5px;
+}
+
+#alinhamento {
+    border: 2px;
+}
+
+
+#banner {
+    border-color: brown;
+    width: 400px;
+    height: 75px;
+}
+    /* Depois da uma olhada */
+/* div {
+    background: linear-gradient(green, yellow);
+    border: red;
+    width: 30px;
+    height: 30px;
+} */
+
+p {
+    border-color: red;
+    text-align: justify;
+    width: 400px;
+}
+
+h1 {
+    color: blue;
+    font-family: Verdana;
+}
+
+h2 {
+    color: green;
+    font-family: 'Courier New'
+}
+
+h3 {
+    color: red;
+    font-family: monospace;
+}
+
+body{
+    margin: 10px;
+}
+
+.alinhamento{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.borda{
+    border: 2px solid;
+    border-color: red;
+}
